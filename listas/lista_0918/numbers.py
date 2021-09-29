@@ -4,7 +4,6 @@ https://codeforces.com/contest/13/problem/A
 https://codeforces.com/blog/entry/364
 '''
 
-from abc import ABCMeta
 import math
 
 A = int(input())
